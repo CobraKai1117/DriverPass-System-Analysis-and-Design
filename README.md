@@ -15,7 +15,7 @@ Another aspect I felt I did well on was the UML activity diagrams. I was able to
 
 #### If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-The system processes could have been explained more clearly
+I could have elaborated more on the use case diagram. I had 5 actors in the system but I could have added more. There could have been a cloud provider actor. This actor could have been responsible for integrating security within the application as well as providing data backups to the system. The DMV or a DMV interface could also have been an actor in the system. This actor would be responsible for sending periodic updates to the system so DriverPass can update their quiz materials appropriately. 
 
 #### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
